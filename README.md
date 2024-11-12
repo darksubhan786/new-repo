@@ -6,3 +6,11 @@ qr [Click here](https://cyber-x-qr-3-0.onheruko.com)
 https://code.dev/github/darksubhan786/vscode/blob/main?editSessionId=021806e6-84f1-4a4e-96c8-cbbbaf219977&continueOn=1
 <br>
 (https://cyber-x-qr-3-0.onrender.com)
+
+
+
+
+            "webRoot": "${workspaceFolder}"
+
+
+
